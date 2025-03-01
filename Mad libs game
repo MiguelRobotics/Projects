@@ -1,4 +1,4 @@
-public class MadLibs {
+```java public class MadLibs {
   /*
   This program generates a mad libbed story. In this game, call a friend or declare variables yourself, maintaining the structure below. I left some names, verbs and places as an example, change them as you wish.
   Author: Miguel F. S Moraes
@@ -25,4 +25,4 @@ public class MadLibs {
 
     System.out.println(story);
   }
-}
+}```
