@@ -2,7 +2,7 @@ public class Libs {
 	
     /* This program generates a mad libbed story.
        In this game, call a friend or declare variables yourself, maintaining the structure below.
-       I left some names, verbs, and places as an example—change them as you wish.
+       I left some names, verbs, and places as an exampleâ€”change them as you wish.
        Author: Miguel F. S Moraes
        Date: 01/03/2025
     */
@@ -18,7 +18,7 @@ public class Libs {
         String noun2 = "Gabriel";
         String noun3 = "Isaac";
         String noun4 = "Gislene";
-        String noun5 = "Vitória"; // Corrigido problema de acentuação
+        String noun5 = "VitÃ³ria"; // Corrigido problema de acentuaÃ§Ã£o
         String noun6 = "Erick";
         String name2 = "Maria";
         int number = 25;
