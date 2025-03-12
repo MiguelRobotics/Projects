@@ -3,6 +3,9 @@
 Welcome to my coding journey! This repository is a collection of my projects and scripts created while learning and experimenting with **Java**, **Python**, **Spring Boot**, and **SQL**. Feel free to explore, learn, and share feedback!
 
 ---
+## 🌟 Sobre Este Repositório (Português)
+
+Este repositório é um portfólio pessoal onde compartilho meus projetos e scripts criados durante meus estudos de **Java**, **Python**, **Spring Boot** e **SQL**. Sinta-se à vontade para explorar e contribuir! atualmente estou construindo uma abordagem internacional, pronta para feedbacks e networks globais, por isso a maior parte do repositorio permanecerá em inglês. Mas não se preocupe os projetos são sempre pensados para qualquer um entender e analisar meu desenvolvimento.
 
 ## 🌟 About This Repository
 
